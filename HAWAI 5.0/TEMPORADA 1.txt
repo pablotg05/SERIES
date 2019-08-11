@@ -1,0 +1,7 @@
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link></link>
+<info></info>
+</item>
